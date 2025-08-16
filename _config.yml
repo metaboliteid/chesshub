@@ -22,6 +22,8 @@ title: CHEmical Structural Solutions for Metabolites [CHESS]-hub
 email: jia.li@imperial.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
     The CHESS-hub’s mission is to advance the field of chemical structural elucidation for metabolite identification and biomarker discovery through collaboration, knowledge exchange and training.
+logo: /assets/images/logoChessHub_short.png
+
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: metaboliteid
@@ -32,6 +34,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - about.markdown
+  - contact.markdown
+  - join.markdown
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -40,14 +48,15 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - README.md
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
