@@ -4,15 +4,8 @@
 
 @import "minima";
 
-.site-header .site-title img,
-.site-title img,
-img[src*="logoChessHub"] {
-  width: 20px !important;
-  height: 20px !important;
-  max-width: 20px !important;
-  max-height: 20px !important;
-  display: inline-block !important;
-  vertical-align: middle !important;
-  margin-right: 10px !important;
-  object-fit: contain !important;
+.site-logo {
+    width: 40px;
+    height: 40px;
 }
+
