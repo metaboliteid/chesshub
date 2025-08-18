@@ -14,8 +14,8 @@ Membership is open to individuals with expertise or active interest in the struc
 - **Student Member**: Enrolled undergraduate or postgraduate students working in related disciplines.
 
 ### Application Process
-Applicants should submit the following items to xxxx:
-- A completed membership application form.
+Applicants should submit the following items to info@chess-hub.org
+- A [completed membership application form](/assets/documents/membership_application_form_v1.docx).
 - A current CV or NIH biosketch.
 
 Membership becomes effective upon notification and formal confirmation of acceptance by the Board.
