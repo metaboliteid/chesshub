@@ -1,12 +1,13 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Home 
 layout: home
 ---
 
-The CHESS-hub’s mission is to advance the field of chemical structural elucidation for metabolite identification and biomarker discovery through collaboration, knowledge exchange and training. 
+## The CHESS-hub's mission
 
+is to advance the field of chemical structural elucidation for metabolite identification and biomarker discovery through collaboration, knowledge exchange and training. 
 
 
 We aim to
